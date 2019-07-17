@@ -5,5 +5,5 @@ eureka:
 server:
   port: 8771
 
-
+env: dev
 branch: dev

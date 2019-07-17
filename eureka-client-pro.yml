@@ -5,4 +5,5 @@ serveureka:
 server:
   port: 8772
 
+env: dev
 branch: dev
